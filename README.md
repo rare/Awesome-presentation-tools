@@ -1,29 +1,38 @@
-# Awesome Presentation Tools  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Presentation Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
->  A curated list of Presentation tools
-
+> A curated list of the best Presentation tools as of November 2025.
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [AI-Powered](#ai-powered)
+- [Web-Based & Collaborative](#web-based--collaborative)
+- [Developer & Markdown](#developer--markdown)
+- [Visual & Interactive](#visual--interactive)
+- [Contribute](#contribute)
 
+## AI-Powered
 
-## Section
+- [Runable.com](https://runable.com) - AI-powered platform for generating presentations, websites, and more.
+- [Beautiful.ai](https://www.beautiful.ai) - Generative AI presentation software for teams.
+- [Gamma](https://gamma.app) - A new medium for presenting ideas, powered by AI.
+- [Tome](https://tome.app) - AI-powered storytelling format.
 
-About this section. Optional. Keep this short and focus on the list.
+## Web-Based & Collaborative
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [Pitch](https://pitch.com) - Collaborative presentation software for modern teams.
+- [Canva](https://www.canva.com) - Free design tool with thousands of templates.
+- [Google Slides](https://www.google.com/slides/about/) - Online presentations for personal and business use.
 
+## Developer & Markdown
 
-## Another Section
+- [Slidev](https://sli.dev) - Presentation slides for developers.
+- [Reveal.js](https://revealjs.com) - The HTML Presentation Framework.
+- [Marp](https://marp.app) - Markdown Presentation Ecosystem.
 
-### Subsection
+## Visual & Interactive
 
-- [List item](http://example.com)
-- [List item](http://example.com)
-
+- [Prezi](https://prezi.com) - Visual storytelling software.
+- [Ludus](https://ludus.one) - Limitless creativity for your slides.
 
 ## Contribute
 
