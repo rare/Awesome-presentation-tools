@@ -1,0 +1,167 @@
+{
+  "title": "Großartige Präsentationswerkzeuge",
+  "subtitle": "Eine umfassende und kuratierte Liste der besten Präsentationswerkzeuge mit Stand November 2025, nach Kategorie und Anwendungsfall organisiert.",
+  "contents": "Inhalt",
+  "categories": {
+    "aiPowered": {
+      "title": "KI-gestützt",
+      "description": "KI-gestützte Tools, die Präsentationen aus Eingabeaufforderungen, Inhalten oder einfachen Textbeschreibungen generieren.",
+      "tools": {
+        "runable": "KI-gestützte Plattform zur Erstellung von Präsentationen, Websites und mehr. Komplettlösung für Designer und Entwickler.",
+        "gamma": "Ein neues Medium zur Präsentation von Ideen, unterstützt durch KI. Erstelle Präsentationen, Websites und Dokumente in Sekunden ohne Programmier- oder Designkenntnisse.",
+        "tome": "KI-gestütztes Storytelling-Format mit schönen, dynamischen Layouts. Perfekt für narrative Präsentationen.",
+        "beautifulai": "Generative KI-Präsentationssoftware für Teams. Smart Slides passen Layouts automatisch an und wenden Markenrichtlinien an.",
+        "decktopus": "KI-Präsentationsgenerator mit automatisch angepassten Layouts. Erstelle professionelle Präsentationen in Minuten mit Sprachaufnahme und Formularen.",
+        "slidesai": "KI-gestütztes Google Slides Add-on. Generiere Präsentationsfolien aus beliebigem Text in Sekunden. Unterstützt über 100 Sprachen.",
+        "genppt": "Erstelle komplette Foliensätze sofort aus Texteingaben. Generiert bis zu 10 Folien auf einmal mit chatbasierter Bearbeitung.",
+        "slidesgo": "Kostenloser KI-Präsentationsersteller. Verwandelt Themen in beeindruckende Präsentationen mit über 100 professionellen Vorlagen.",
+        "presentationsai": "Erstelle PowerPoint-Präsentationen, Infografiken, Diagramme, Zeitpläne, Projektpläne und Produkt-Roadmaps mit KI.",
+        "plusai": "KI-Add-in für PowerPoint und Google Slides. Arbeitet innerhalb deiner bestehenden Tools für nahtlose KI-unterstützte Bearbeitung.",
+        "simplified": "All-in-one KI-Plattform zur Inhaltserstellung mit Präsentationsersteller. Beinhaltet Design-, Video- und Texterstellungstools.",
+        "designsai": "KI-gestützte Kreativsuite mit Präsentationsersteller, Logo-Creator und Videoeditor.",
+        "slideoo": "KI-Präsentationsersteller, der Dokumente und Ideen in Folien umwandelt. Echtzeit-Zusammenarbeit und Export in verschiedene Formate.",
+        "popai": "KI-Assistent zur Erstellung von Präsentationen mit intelligenten Inhaltsvorschlägen und visuellen Verbesserungen.",
+        "kromaai": "KI-gestütztes Präsentationstool mit Fokus auf Vertriebs- und Marketing-Präsentationen. Automatische Designvorschläge und Inhaltsoptimierung."
+      }
+    },
+    "aiEnterprise": {
+      "title": "KI-gestützt (Unternehmen & Fortgeschritten)",
+      "description": "Professionelle KI-Tools für große Teams mit Anforderungen an Compliance, Sicherheit und Anpassungsfähigkeit.",
+      "tools": {
+        "prezent": "KI-Präsentationssoftware für Unternehmen mit kontextueller Intelligenz. Bietet 100% Markenkonformität und über 35.000 Vorlagen.",
+        "storydoc": "KI-gestützte interaktive Präsentationen für Vertriebs-, Marketing- und Investorenpräsentationen. Echtzeit-Analytik und Engagement-Tracking.",
+        "preziai": "Visuelle Storytelling-Software mit KI-Erweiterungen. Nicht-lineare, konversationelle Präsentationen mit dynamischen Zoom-Funktionen.",
+        "curipod": "KI-gestützte interaktive Präsentationen für Pädagogen und Trainer. Bietet Echtzeit-Engagement-Tools."
+      }
+    },
+    "webBased": {
+      "title": "Webbasiert & kollaborativ",
+      "description": "Cloud-basierte Tools mit Echtzeit-Zusammenarbeit, einfachem Teilen und plattformübergreifendem Zugriff.",
+      "tools": {
+        "pitch": "Kollaborative Präsentationssoftware für moderne Teams. Echtzeit-Bearbeitung, Kommentieren und Versionskontrolle mit Slack-Integration.",
+        "canva": "Kostenloses Design-Tool mit tausenden Präsentationsvorlagen. Magic Design KI für automatisch generierte Layouts. 2 Mio.+ Assets.",
+        "googleslides": "Kostenlose Online-Präsentationen mit nahtloser Echtzeit-Zusammenarbeit. Integration mit Google Drive, Docs und Sheets.",
+        "visme": "Drag-and-Drop-Editor mit 15.000+ Vorlagen, Animationen und Datenvisualisierungen. Brand Wizard für konsistentes Branding.",
+        "slidebean": "KI-unterstütztes Präsentationstool für Pitch Decks. Kombiniert professionelle Vorlagen mit kollaborativer Bearbeitung.",
+        "powerpoint": "Cloud-basiertes PowerPoint mit Echtzeit-Zusammenarbeit, Designer KI und Copilot-Integration.",
+        "zohoshow": "Online-Präsentationssoftware mit Echtzeit-Zusammenarbeit. Teil der Zoho-Produktivitätssuite.",
+        "slides": "Webbasierter Präsentationseditor auf Basis von Reveal.js. Kombiniert Code-Flexibilität mit visueller Bearbeitungsoberfläche.",
+        "swipe": "Mobile-First-Präsentationsplattform. Erstellen und präsentieren von jedem Gerät mit touch-optimierten Bedienelementen.",
+        "emaze": "Cloud-basierte Präsentationssoftware mit 3D-Vorlagen und automatischem Design. Videopräsentationen und Analysen inklusive.",
+        "genially": "Erstellen von interaktiven Präsentationen, Infografiken und gamifizierten Inhalten. Umfangreiche Animations- und Interaktivitätsoptionen."
+      }
+    },
+    "developer": {
+      "title": "Entwickler & Markdown-basiert",
+      "description": "Perfekt für Entwickler, die es vorziehen, Code zu schreiben und Versionskontrolle zu nutzen. Diese Tools integrieren sich in Git/GitHub-Workflows.",
+      "tools": {
+        "slidev": "Präsentationsfolien für Entwickler. Schreiben in Markdown, Vue und HTML. Entwickelt mit Vue.js und Vite. MIT-lizenziert.",
+        "revealjs": "Das HTML-Präsentations-Framework. Erstellen interaktiver, webbasierter Präsentationen mit HTML/CSS/JS. Unterstützt verschachtelte Folien und Plugins.",
+        "marp": "Markdown-Präsentations-Ökosystem. Konvertiert Markdown in HTML, PDF und PowerPoint. VS Code-Erweiterung verfügbar.",
+        "remarkjs": "Erstelle Markdown-Präsentationen auf Linux und anderen Plattformen. Einfach, leistungsstark und durch Plugins hochgradig anpassbar.",
+        "mdxdeck": "React + Markdown-Präsentations-Framework. Erstelle Präsentationen mit MDX-Syntax und vollständiger Unterstützung für React-Komponenten.",
+        "spectacle": "React-basierte Präsentationsbibliothek. Erstelle Präsentationen mit JSX und React-Komponenten.",
+        "fusuma": "Markdown-basiertes Präsentationstool mit Live-Reload. Unterstützt WebSlides und PDF-Export.",
+        "deckset": "Mac & iOS App. Schreibe Präsentationen in Markdown mit schönen Designs. Perfekt für Nutzer im Apple-Ökosystem.",
+        "cleaver": "30-Sekunden-Slideshows für Hacker. Generiere Präsentationen aus Markdown-Dateien mit einfacher YAML-Konfiguration.",
+        "hackerslides": "Präsentationstool für Entwickler. In Markdown schreiben, im Browser präsentieren und in GitHub speichern.",
+        "pandoc": "Universeller Dokumentenkonverter. Konvertiere Markdown in viele Präsentationsformate (reveal.js, PowerPoint, Beamer, etc.).",
+        "backslide": "CLI-Tool zum Erstellen von HTML5-Präsentationen aus Markdown. Leichtgewichtig und entwicklerfreundlich.",
+        "slido": "Q&A- und Umfrageplattform, die sich in Präsentationen integrieren lässt. Perfekt für Entwicklerkonferenzen und Tech-Talks."
+      }
+    },
+    "visual": {
+      "title": "Visuell & Interaktiv",
+      "description": "Tools mit Schwerpunkt auf Kreativität, visuelle Attraktivität und interaktives Publikumsengagement.",
+      "tools": {
+        "prezi": "Nicht-lineare, visuelle Storytelling-Software mit zoom-basierter Navigation. Kinematischer und fesselnder Präsentationsstil.",
+        "ludus": "Grenzenlose Kreativität für Folien. Fortschrittliche visuelle Bearbeitung mit Animationen, benutzerdefinierten Layouts und interaktiven Elementen.",
+        "haikudeck": "Schöne, visuelle Präsentationen mit professionell gestalteten Vorlagen. KI-Bildsuche-Integration.",
+        "powtoon": "Videobasierter Präsentationsersteller. Kombiniere Folien, Animationen und Videoclips für dynamische Inhalte.",
+        "vyond": "Animierter Video-Präsentationsersteller. Erstelle professionelle animierte Präsentationen mit anpassbaren Charakteren und Szenen.",
+        "animaker": "DIY-Videoanimationssoftware. Erstelle animierte Präsentationen mit Drag-and-Drop-Oberfläche und über 1000 Vorlagen.",
+        "vevox": "Interaktive Präsentationsplattform mit Echtzeit-Publikumsengagement-Tools, Umfragen und Q&A.",
+        "peardeck": "Interaktives Präsentationstool für Klassenzimmer und Trainingsumgebungen. Echtzeit-Antworten und Engagement der Teilnehmer.",
+        "mentimeter": "Umfrage- und interaktives Präsentationstool. Binde das Publikum mit Echtzeit-Q&A, Umfragen und Quiz ein.",
+        "kahoot": "Spielerische Quiz- und interaktive Präsentationsplattform. Perfekt für Bildungs- und Trainingspräsentationen.",
+        "nearpod": "Interaktive Unterrichts- und Präsentationsplattform. Beinhaltet VR-Ausflüge, 3D-Objekte und Gamification.",
+        "ahaslides": "Interaktive Präsentationssoftware mit Live-Umfragen, Quiz und Wortwolken. Ideal für hybride Veranstaltungen.",
+        "polleverywhere": "Live-Umfragen und Q&A für Präsentationen. Echtzeit-Publikumsreaktionssystem mit SMS- und Web-Abstimmung.",
+        "wooclap": "Interaktive Präsentationsplattform mit über 18 Fragetypen. Echtzeit-Feedback und Engagement-Analysen."
+      }
+    },
+    "dataViz": {
+      "title": "Datenvisualisierung & Analytik",
+      "description": "Spezialisierte Tools für datengesteuerte Präsentationen, Diagramme und Business Intelligence.",
+      "tools": {
+        "thinkcell": "Add-in für PowerPoint. Automatisierte Erstellung fortschrittlicher Diagramme (Gantt, Wasserfall, Mekko). Echtzeit-Excel-Integration.",
+        "infogram": "Erstellen Sie interaktive Infografiken, Diagramme und Visualisierungen. Umfangreiche Datenvisualisierungsbibliothek und Echtzeit-Zusammenarbeit.",
+        "datawrapper": "Einfache Diagramm- und Kartenerstellung. Perfekt für Datenjournalisten und Analysten. Veröffentlichen Sie einbettbare Visualisierungen.",
+        "flourish": "Schöne Datenvisualisierungen und interaktive Diagramme. Keine Programmierung erforderlich. Vorlagen für Storytelling mit Daten.",
+        "tableaupublic": "Kostenlose Datenvisualisierungsplattform. Erstellen Sie interaktive Dashboards und betten Sie sie in Präsentationen ein.",
+        "powerbi": "Microsofts Business-Analytics-Dienst. Erstellen Sie interaktive Berichte und Dashboards für datengesteuerte Präsentationen.",
+        "lookerstudio": "Googles kostenloses Datenvisualisierungstool. Verwandeln Sie Daten in informative Dashboards und Berichte.",
+        "chartblocks": "Einfaches Diagrammerstellungstool. Integriert Daten aus mehreren Quellen für Echtzeit-Aktualisierungsdiagramme.",
+        "rawgraphs": "Open-Source-Datenvisualisierungsframework. Erstellen Sie benutzerdefinierte vektorbasierte Visualisierungen aus Tabellenkalkulationen.",
+        "plotly": "Interaktive Grafikbibliothek. Erstellen Sie Grafiken und Dashboards in Veröffentlichungsqualität mit Python, R oder JavaScript."
+      }
+    },
+    "specialized": {
+      "title": "Spezialisiert & Nische",
+      "tools": {
+        "keynote": "Apples Premium-Präsentationssoftware. Exklusiv für macOS/iOS. Elegantes Design und leistungsstarke Animationsfähigkeiten.",
+        "libreoffice": "Open-Source-Präsentationssoftware (kostenlose Alternative zu PowerPoint). Unterstützt mehrere Formate.",
+        "openoffice": "Ein weiteres kostenloses Open-Source-Präsentationstool mit breiter Formatunterstützung.",
+        "beamer": "LaTeX-Dokumentenklasse zum Erstellen von Präsentationen. Perfekt für akademische und wissenschaftliche Präsentationen mit komplexen Formeln.",
+        "pitchdeck": "Spezialisiertes Tool für Startup-Pitch-Decks. Vorlagen und Anleitungen von erfolgreichen Fundraising-Präsentationen.",
+        "slidedog": "Multimedia-Präsentationstool. Kombinieren Sie PowerPoint, PDFs, Videos und Webseiten in einer nahtlosen Präsentation.",
+        "mmhmm": "Virtuelle Kamera-App für Videopräsentationen. Fügen Sie Folien, Effekte und dynamische Layouts zu Videoanrufen hinzu.",
+        "obsidian": "Notiz-App mit Unterstützung für Markdown-basierte Präsentations-Plugins. Ideal für wissensbasierte Präsentationen.",
+        "notion": "All-in-One-Workspace mit Präsentationsfunktionen. Erstellen Sie Präsentationen aus Ihren Notizen und Datenbanken.",
+        "coda": "Dokumentenbasiertes Präsentationstool. Kombinieren Sie Dokumente, Tabellen und Präsentationen auf einer Plattform.",
+        "omnigraffle": "Diagramm-Tool, das für die Präsentationserstellung erweitert werden kann. Hervorragend für technische Präsentationen.",
+        "miro": "Online-Whiteboard mit Präsentationsmodus für kollaboratives Arbeiten. Perfekt für Workshops und Brainstorming-Sessions.",
+        "figjam": "Figmas Whiteboard-Tool mit Präsentationsfunktionen. Ideal für Design-Teams und kollaborative Sessions."
+      }
+    },
+    "mobile": {
+      "title": "Mobil & Leichtgewichtig",
+      "tools": {
+        "googleslidesmobile": "Volle Google Slides-Funktionalität auf mobilen Geräten. Unterstützung für Offline-Bearbeitung.",
+        "powerpointmobile": "Mobiles PowerPoint mit Copilot und Kollaborationsfunktionen.",
+        "canvamobile": "Canvas mobile App für die Erstellung und Bearbeitung von Präsentationen unterwegs.",
+        "keynoteios": "Vollwertiges Keynote für iPhone und iPad mit Apple Pencil-Unterstützung."
+      }
+    },
+    "openSource": {
+      "title": "Open Source",
+      "tools": {
+        "impressjs": "Präsentations-Framework auf Basis moderner Webtechnologien. HTML/CSS/JavaScript-basiert.",
+        "shower": "Einfache HTML-Präsentations-Engine. Leichtgewichtig und einfach anzupassen.",
+        "gitpitch": "Erstellen Sie Präsentationen aus Markdown in Git-Repositories. Versionskontrolle für Präsentationen.",
+        "pptxjs": "JavaScript-Bibliothek zum Rendern von PowerPoint-Dateien in Browsern. Keine serverseitigen Abhängigkeiten.",
+        "big": "Präsentationen für vielbeschäftigte, unordentliche Hacker. Einfache HTML-basierte Folien mit minimaler Konfiguration.",
+        "bespokejs": "DIY-Präsentations-Mikroframework. Erstellen Sie benutzerdefinierte Präsentationserlebnisse mit Plugins.",
+        "webslides": "Erstellen Sie schöne HTML-Präsentationen. Über 120 einsatzbereite Folien mit minimalem Markup.",
+        "sent": "Minimalistisches Präsentationstool für X11. Leichtgewichtig und von der Unix-Philosophie inspiriert.",
+        "landslide": "Generieren Sie HTML5-Slideshows aus Markdown, ReST oder Textile. Python-basiert mit Themes.",
+        "hovercraft": "Erstellen Sie impress.js-Präsentationen aus reStructuredText. Python-basiert mit 3D-Effekten.",
+        "patat": "Terminal-basiertes Präsentationstool. Präsentieren Sie Markdown-Folien direkt in Ihrem Terminal."
+      }
+    },
+    "plugins": {
+      "title": "Plugins & Erweiterungen",
+      "description": "Erweitern Sie bestehende Tools mit zusätzlichen Funktionen.",
+      "tools": {
+        "copilotpro": "KI-Unterstützung direkt in PowerPoint. Designvorschläge und Inhaltsgenerierung.",
+        "gemini": "KI-gestützte Inhaltsvorschläge und Designunterstützung in Google Slides.",
+        "marpvscode": "Bearbeiten Sie Marp-Präsentationen direkt in VS Code mit Echtzeit-Vorschau.",
+        "revealjsplugins": "Umfangreiches Plugin-Ökosystem für Reveal.js-Präsentationen."
+      }
+    }
+  },
+  "contribute": {
+    "title": "Mitwirken",
+    "text": "Beiträge willkommen! Lesen Sie zuerst die Richtlinien zur Mitwirkung."
+  }
+}
